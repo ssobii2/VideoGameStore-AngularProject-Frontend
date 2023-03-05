@@ -1,5 +1,5 @@
 # Public Link
-https://videogamestore-c4466.web.app/
+https://videogamestore.vercel.app/
 
 # Documentation
 Go to the wiki tab for the documentation of the project.

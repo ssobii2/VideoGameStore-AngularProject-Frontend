@@ -1,6 +1,8 @@
 # Public Link
 https://videogamestore.vercel.app/
 
+# Please be Patient at the Games Page as the Backend takes time to Load.
+
 # Documentation
 Go to the wiki tab for the documentation of the project.
 
